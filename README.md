@@ -3,7 +3,7 @@ This is a react app that interacts with spotify's API, allowing user to search f
 
 [Deployed using surge](https://reactsavetoplaylistjamming.surge.sh/)
 
-I made it the knowledge of react components, passing state, and requests with the Spotify API.
+I made it with the knowledge of react components, passing state, and requests with the Spotify API.
 
 
 
