@@ -1,5 +1,5 @@
 # Jammming
-This is a react app that interacts with spotify's API, allowing user to search for songs and save to users own playlist.
+This is a react app that interacts with spotify's API, allowing users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
 [Deployed using surge](https://reactsavetoplaylistjamming.surge.sh/)
 
