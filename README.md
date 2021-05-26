@@ -5,7 +5,7 @@ This is a react app that interacts with spotify's API, allowing users to search 
 
 I made it with the knowledge of react components, passing state, and requests with the Spotify API.
 
-
+The first time you search for songs you might need to go through the authentication process and it will refresh the page and clear the input field, but after that it searches for the song properly.
 
 
 
